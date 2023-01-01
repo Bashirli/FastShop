@@ -1,5 +1,6 @@
 # FastShop
 Personal e-commerce app. In app I used:
+- MVVM architecture
 - FreeAPI
 - CompositeDisposable
 - Firebase
